@@ -1,0 +1,28 @@
+{
+    "name": "homework58",
+    "version": "1.0.0",
+    "description": "Node.js Cryptography Homework - SHA-256 and PBKDF2",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js",
+        "test": "node --test test.js",
+        "demo": "node demo.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mmf2003/Homework58.git"
+    },
+    "keywords": [
+        "nodejs",
+        "crypto",
+        "sha256",
+        "pbkdf2"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mmf2003/Homework58/issues"
+    },
+    "homepage": "https://github.com/mmf2003/Homework58#readme"
+}
